@@ -636,7 +636,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 4
+      - m_Value: 5
         m_Name: GroundSize
         m_Overridden: 1
       - m_Value: 1.5
@@ -654,12 +654,18 @@ VisualEffect:
       - m_Value: 0.33
         m_Name: SpikesSize
         m_Overridden: 1
+      - m_Value: 0.075
+        m_Name: Delay
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
       m_Array: []
     m_Vector4f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 0.76556355, y: 1.2269435, z: 1.3195078, w: 0}
+        m_Name: GroundColor
+        m_Overridden: 1
     m_Uint:
       m_Array: []
     m_Int:
