@@ -510,79 +510,25 @@ MonoBehaviour:
     - model: {fileID: 8926484042661616027}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661616047}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616050}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616067}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661616021}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616023}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661616042}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661616103}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616110}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661616044}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616086}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616089}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616100}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661616128}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661616143}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616147}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616159}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661616178}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616180}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661616184}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661616186}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616193}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661616199}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616202}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616206}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661616208}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661616211}
@@ -694,10 +640,10 @@ MonoBehaviour:
   - title: Frost
     position:
       serializedVersion: 2
-      x: -1867.9539
-      y: -141.19406
-      width: 100
-      height: 100
+      x: -1931
+      y: 493
+      width: 666
+      height: 2072
     contents:
     - model: {fileID: 8926484042661616585}
       id: 0
@@ -53222,7 +53168,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616600}
   - {fileID: 8926484042661616604}
   - {fileID: 8926484042661616616}
-  m_UIPosition: {x: -1713.9539, y: 868.8059}
+  m_UIPosition: {x: -1714, y: 869}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -54901,7 +54847,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661616637}
-  m_UIPosition: {x: -1729.9539, y: 556.8059}
+  m_UIPosition: {x: -1718, y: 552}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -55087,7 +55033,7 @@ MonoBehaviour:
   m_Children:
   - {fileID: 8926484042661616643}
   - {fileID: 8926484042661616650}
-  m_UIPosition: {x: -1735.9539, y: 1658.8059}
+  m_UIPosition: {x: -1736, y: 1659}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -55550,7 +55496,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616659}
   - {fileID: 8926484042661616663}
   - {fileID: 8926484042661616665}
-  m_UIPosition: {x: -1743.9539, y: 1970.8059}
+  m_UIPosition: {x: -1744, y: 1971}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -55929,7 +55875,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: -1905.9539, y: 620.8059}
+  m_UIPosition: {x: -1906, y: 621}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
